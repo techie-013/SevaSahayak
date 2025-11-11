@@ -4,8 +4,6 @@
 ![Prototype](https://img.shields.io/badge/Stage-Prototype-yellow)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-blue)
 
-## 🏆 CodeSlayer 2025 Hackathon Project
-
 **GrievanceGuard** is our innovative submission for the CodeSlayer 2025 Hackathon - an AI-powered platform designed to revolutionize public grievance redressal systems through cutting-edge technology and citizen-centric design.
 
 ## 📋 Table of Contents
